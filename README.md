@@ -2,7 +2,7 @@
 - 👀 I’m interested in PROBLEMS
 - 🌱 I’m currently learning PROBELMS
 - 💞️ I’m looking to collaborate on PROBLEEEEMMMMSSSS!!!!!
-- 📫 I find you, you dont find me!
+- 📫 I FIND YOU!!, YOU DONT FIND ME!!!!
 
 <!---
 Anonymous961/Anonymous961 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
