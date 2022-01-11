@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Anonymous961
-- 👀 I’m interested in PROBLEMS
-- 🌱 I’m currently learning PROBELMS
-- 💞️ I’m looking to collaborate on PROBLEEEEMMMMSSSS!!!!!
-- 📫 I FIND YOU!!, YOU DONT FIND ME!!!!
+- 👋 Hi, I’m Anil
+- 👀 I’m interested in solving complex problems.
+- 🌱 I’m currently learning different algorithms.
+- 💞️ I’m looking to collaborate.
+- 📫 If you find me helpful,I'm just a text away.
 
 <!---
 Anonymous961/Anonymous961 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
