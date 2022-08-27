@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anil
-- 👀 I’m interested in solving complex problems.
-- 🌱 I’m currently learning different algorithms.
+- 👀 I’m interested in solving problems.
+- 🌱 I’m currently exploring new things out.
 - 💞️ I’m looking to collaborate.
 - 📫 If you find me helpful,I'm just a text away.
 
