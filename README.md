@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anonymous.</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="100%"height="50%"src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gif" alt="">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=41F7A0&width=435&lines=Hey!;I'm+Anonymous." alt="Typing SVG" /></a>
+<img align="right" alt="coding" width="400px" src="https://cutewallpaper.org/26/anonymous-wallpaper-gif/hacker-anonymous-gifs-tenor.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymous961&label=Profile%20views&color=0e75b6&style=flat" alt="anonymous961" /> </p>
 
