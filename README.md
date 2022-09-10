@@ -59,7 +59,7 @@
 
 
 
-<H3><b>Total Visitor</b></H3>
+<H3><b>Total Visitors</b></H3>
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Anonymous961&color=blueviolet&style=for-the-badge&label=Visitors+Here)
 
