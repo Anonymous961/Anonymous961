@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41F7A0&width=435&lines=Hey!;I'm+Anonymous.)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m Anil
 - 👀 I’m interested in solving problems.
 - 🌱 I’m currently exploring new things out.
