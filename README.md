@@ -71,3 +71,6 @@
 
 <H3><b>My Contribution Status</b></H3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anonymous961&" alt="anonymous961" /></p>
+<a href="#">
+<img alt="Anil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anonymous961&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</a>
