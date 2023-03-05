@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/anilkum58688697" target="blank"><img src="https://img.shields.io/twitter/follow/anilkum58688697?logo=twitter&style=for-the-badge" alt="anilkum58688697" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript.**
+ 🌱 I’m currently learning **JavaScript.**
 
-- 👯 I’m looking to collaborate on **anything interesting.**
+ 👯 I’m looking to collaborate on **anything interesting.**
 
-- 🤝 I’m looking for **fun projects.**
+ 🤝 I’m looking for **fun projects.**
 
-- ⚡ Fun fact **I think I am funny.**
+ ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -64,13 +64,16 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Anonymous961&color=blueviolet&style=for-the-badge&label=Visitors+Here)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonymous961&show_icons=true&locale=en&layout=compact" alt="anonymous961" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonymous961&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" alt="anonymous961" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anonymous961&show_icons=true&locale=en" alt="anonymous961" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anonymous961&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="200px" width="500px" /></p>
 
 
 <H3><b>My Contribution Status</b></H3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anonymous961&" alt="anonymous961" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=anonymous961&theme=algolia" alt="LemonDrop847" alt="anonymous961" /></p>
 <a href="#">
-<img alt="Anil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anonymous961&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Anil's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=anonymous961&theme=tokyo-night&hide_border=true" />
 </a>
+<!---
+&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true
+--->
