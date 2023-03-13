@@ -8,8 +8,6 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymous961" alt="anonymous961" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/anilkum58688697" target="blank"><img src="https://img.shields.io/twitter/follow/anilkum58688697?logo=twitter&style=for-the-badge" alt="anilkum58688697" /></a> </p>
-
 🌱 I’m currently learning **JavaScript.**
 
 👯 I’m looking to collaborate on **anything interesting.**
