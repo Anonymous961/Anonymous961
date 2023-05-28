@@ -8,9 +8,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymous961" alt="anonymous961" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/anilkum58688697" target="blank"><img src="https://img.shields.io/twitter/follow/anilkum58688697?logo=twitter&style=for-the-badge" alt="anilkum58688697" /></a> </p>
-
-🌱 I’m currently learning **JavaScript.**
+🌱 I’m currently learning **React Native.**
 
 👯 I’m looking to collaborate on **anything interesting.**
 
@@ -122,7 +120,7 @@
 <H3><b>My Contribution Status</b></H3>
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=anonymous961&theme=algolia" alt="anonymous961" alt="anonymous961" /></p>
 <a href="#">
-<img alt="Anil's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=anonymous961&theme=tokyo-night&hide_border=true" />
+<img alt="Anil's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Anonymous961&theme=tokyo-night&hide_border=true"/>
 </a>
 <!---
 &bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true
