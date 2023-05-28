@@ -99,7 +99,7 @@
 <H3><b>My Contribution Status</b></H3>
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=anonymous961&theme=algolia" alt="anonymous961" alt="anonymous961" /></p>
 <a href="#">
-<img alt="Anil's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=anonymous961&theme=tokyo-night&hide_border=true" />
+<img alt="Anil's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Anonymous961&theme=tokyo-night&hide_border=true"/>
 </a>
 <!---
 &bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true
