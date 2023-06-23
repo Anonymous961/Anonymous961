@@ -31,10 +31,10 @@
 
 <h3><b>My Profiles</b></h3>
 
-[![Codechef](https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/anil_rockzz11&prefix=Rating%20&color=684273&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400)](https://www.codechef.com/users/anil_rockzz11)
-[![Codeforces](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/Anil_rockzz&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400)](https://codeforces.com/profile/Anil_rockzz)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://https://www.hackerrank.com/ark845612)](https://www.hackerrank.com/ark845612?hr_r=1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/Anonymous961/)](https://leetcode.com/Anonymous961/)
+[![Codechef](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodechef%2Fanil_rockzz11&cacheSeconds=86400)](https://www.codechef.com/users/anil_rockzz11)
+[![Codeforces](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodeforces%2FAnil_rockzz&cacheSeconds=86400)](https://codeforces.com/profile/Anil_rockzz)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/ark845612)](https://www.hackerrank.com/ark845612)
+[![LeetCode](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fleetcode%2FAnonymous961&cacheSeconds=86400)](https://leetcode.com/Anonymous961/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
