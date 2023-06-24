@@ -1,8 +1,10 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![MasterHead](https://media1.giphy.com/headers/NoMansDream/Wsws43NM0zxF.gif)
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![MasterHead](https://media1.giphy.com/headers/NoMansDream/Wsws43NM0zxF.gif) -->
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=41F7A0&width=435&lines=Hey!;I'm+Anonymous." alt="Typing SVG" /></a>
-<img align="right" alt="coding" width="30%" src="https://cutewallpaper.org/26/anonymous-wallpaper-gif/hacker-anonymous-gifs-tenor.gif" alt="">
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hey!+Welcome+to+my+page.;I'm+Anil.)](https://git.io/typing-svg)
+
+<!-- <img align="right" alt="coding" width="30%" src="https://cutewallpaper.org/26/anonymous-wallpaper-gif/hacker-anonymous-gifs-tenor.gif" alt=""> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymous961&label=Profile%20views&color=0e75b6&style=flat" alt="anonymous961" /> </p> -->
 
@@ -15,19 +17,6 @@
 🤝 I’m looking for **fun projects.**
 
 ⚡ Fun fact **I think I am funny.**
-
-<!-- <div>
-    <h3 align="left">Connect with me:</h3>
-
-</div> -->
-<!-- <p align="left">
-<a href="https://codepen.io/@anonymous991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@anonymous991" height="30" width="40" /></a>
-<a href="https://twitter.com/anilkum58688697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anilkum58688697" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/anil-kumar-behera-4ba53922a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/anil-kumar-behera-4ba53922a/" height="30" width="40" /></a>
-<a href="https://instagram.com/_.potato_mystic._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.potato_mystic._" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anil_rockzz11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anil_rockzz11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anonymous961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anonymous961" height="30" width="40" /></a>
-</p> -->
 
 <h3><b>My Profiles</b></h3>
 
