@@ -2,7 +2,7 @@
 
 <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hey!+Welcome+to+my+page.;I'm+Anil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&width=435&lines=Hey!+Welcome+to+my+profile.;I'm+Anil.)](https://git.io/typing-svg)
 
 <!-- <img align="right" alt="coding" width="30%" src="https://cutewallpaper.org/26/anonymous-wallpaper-gif/hacker-anonymous-gifs-tenor.gif" alt=""> -->
 
@@ -18,12 +18,16 @@
 
 ⚡ Fun fact **I think I am funny.**
 
+<hr>
+
 <h3><b>My Profiles</b></h3>
 
 [![Codechef](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodechef%2Fanil_rockzz11&cacheSeconds=86400)](https://www.codechef.com/users/anil_rockzz11)
 [![Codeforces](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodeforces%2FAnil_rockzz&cacheSeconds=86400)](https://codeforces.com/profile/Anil_rockzz)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/ark845612)](https://www.hackerrank.com/ark845612)
 [![LeetCode](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fleetcode%2FAnonymous961&cacheSeconds=86400)](https://leetcode.com/Anonymous961/)
+
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -97,8 +101,8 @@
 <a href="https://www.canva.com/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/> 
 </a>
+<hr>
 </p>
-
 <H3><b>Total Visitors</b></H3>
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Anonymous961&color=blueviolet&style=for-the-badge&label=Visitors+Here)
