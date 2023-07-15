@@ -14,7 +14,7 @@
 
 👯 I’m looking to collaborate on **anything interesting.**
 
-🤝 I’m looking for **fun projects.**
+🤝 I’m looking for **interesting open source projects.**
 
 ⚡ Fun fact **I think I am funny.**
 
