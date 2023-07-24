@@ -10,7 +10,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymous961" alt="anonymous961" /></a> </p> -->
 
-🌱 I’m currently learning **React Native.**
+🌱 I’m currently learning **Blockchain and Smart Contracts.**
 
 👯 I’m looking to collaborate on **anything interesting.**
 
