@@ -29,7 +29,7 @@ My email :- ark845612@gmail.com
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technologies:</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
