@@ -101,6 +101,19 @@ My email :- ark845612@gmail.com
 <a href="https://www.canva.com/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/> 
 </a>
+<br>
+<a href="https://www.docker.com/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
+</a>
+<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="solidity" width="40" height="40"/>
+</a>
+<a href="https://soliditylang.org/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="solidity" width="40" height="40"/>
+</a>
+<a href="https://hub.docker.com/_/nginx" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="solidity" width="40" height="40"/>
+</a>
 <hr>
 </p>
 <H3><b>Total Visitors</b></H3>
