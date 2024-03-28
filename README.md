@@ -2,6 +2,8 @@
 
 <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> -->
 
+![snake gif](https://github.com/anonymous961/anonymous961/blob/output/github-contribution-grid-snake-dark.svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&width=435&lines=Hey!+Welcome+to+my+profile.;I'm+Anil.)](https://git.io/typing-svg)
 
 <!-- <img align="right" alt="coding" width="30%" src="https://cutewallpaper.org/26/anonymous-wallpaper-gif/hacker-anonymous-gifs-tenor.gif" alt=""> -->
