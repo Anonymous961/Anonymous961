@@ -1,16 +1,6 @@
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![MasterHead](https://media1.giphy.com/headers/NoMansDream/Wsws43NM0zxF.gif) -->
-
-<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> -->
-
 ![snake gif](https://github.com/anonymous961/anonymous961/blob/output/github-contribution-grid-snake-dark.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&width=435&lines=Hey!+Welcome+to+my+profile.;I'm+Anil.)](https://git.io/typing-svg)
-
-<!-- <img align="right" alt="coding" width="30%" src="https://cutewallpaper.org/26/anonymous-wallpaper-gif/hacker-anonymous-gifs-tenor.gif" alt=""> -->
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymous961&label=Profile%20views&color=0e75b6&style=flat" alt="anonymous961" /> </p> -->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymous961" alt="anonymous961" /></a> </p> -->
 
 🌱 I’m currently learning **Blockchain and Smart Contracts.**
 
@@ -48,27 +38,11 @@ My email :- ark845612@gmail.com
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"width="40" height="40" />
-          </a> 
-    <!-- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  -->
-    <!-- <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  -->
-    <!-- <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>  -->
-    <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After-Effects" width="40" height="40"/> 
-</a>
-<a href="https://www.adobe.com/products/premierepro.html" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40"/> 
-</a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/> 
-</a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a> 
-    <!-- <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a>  -->
-   
+          </a>
+
 <a href="https://dart.dev/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/> 
 </a> 
- <br>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
            </a> 
@@ -79,16 +53,16 @@ My email :- ark845612@gmail.com
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> 
 </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width="40" height="40" />
+        <img style="border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width="40" height="40" />
         </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"width="40" height="40" />
+    <img style="border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"width="40" height="40" />
 </a> 
 <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40"/> 
 </a>
 <a href="https://expressjs.com/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="background-color:white"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="background-color:white;border-radius:5px;"/> 
 </a>
 <a href="https://www.mongodb.com/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
@@ -97,24 +71,15 @@ My email :- ark845612@gmail.com
     <a href="https://firebase.google.com/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> 
 </a>
-<a href="https://www.figma.com/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
-</a>
-<a href="https://www.canva.com/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/> 
-</a>
-<br>
+
 <a href="https://www.docker.com/" target="_blank"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
+            <img style="border-radius:5px;" src="https://i.postimg.cc/tCwLVSvQ/solidity-Logo.png" alt="solidity" width="40" height="40"/>
 </a>
 <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="solidity" width="40" height="40"/>
+            <img style="border-radius:5px;" src="https://i.postimg.cc/3wVBtVpY/Flask-Logo.webp" alt="solidity" width="40" height="40"/>
 </a>
 <a href="https://soliditylang.org/" target="_blank"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="solidity" width="40" height="40"/>
-</a>
-<a href="https://hub.docker.com/_/nginx" target="_blank"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="solidity" width="40" height="40"/>
+            <img style="border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="solidity" width="40" height="40"/>
 </a>
 <hr>
 </p>
@@ -131,6 +96,3 @@ My email :- ark845612@gmail.com
 <a href="#">
 <img alt="Anil's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Anonymous961&theme=tokyo-night&hide_border=true"/>
 </a>
-<!---
-&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true
---->
