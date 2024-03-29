@@ -4,7 +4,7 @@
 
 ### 🌱 I’m currently learning **Blockchain and Smart Contracts.**
 
-### 👯 I’m looking to collaborate on **anything interesting.**
+### 👯 I’m open to collaborate
 
 ### 🤝 I’m looking for **interesting open source projects.**
 
@@ -12,12 +12,12 @@
 
 ### My email :- ark845612@gmail.com
 
-<h3><b>My Profiles</b></h3>
+ <h3><b>My Profiles</b></h3>
 
 [![Codechef](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodechef%2Fanil_rockzz11&cacheSeconds=86400)](https://www.codechef.com/users/anil_rockzz11)
 [![Codeforces](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodeforces%2FAnil_rockzz&cacheSeconds=86400)](https://codeforces.com/profile/Anil_rockzz)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/ark845612)](https://www.hackerrank.com/ark845612)
-[![LeetCode](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fleetcode%2FAnonymous961&cacheSeconds=86400)](https://leetcode.com/Anonymous961/)
+[![LeetCode](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fleetcode%2FAnonymous961&cacheSeconds=86400)](https://leetcode.com/Anonymous961/) 
 
 <hr>
 
@@ -97,3 +97,6 @@
 <a href="#">
 <img alt="Anil's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Anonymous961&theme=tokyo-night&hide_border=true"/>
 </a>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
