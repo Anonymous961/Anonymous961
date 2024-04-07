@@ -41,6 +41,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Recoil.js](https://img.shields.io/badge/recoil.js-blue?style=for-the-badge&logo=recoil&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-blue?style=for-the-badge&logo=sequelize)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Metro](https://img.shields.io/badge/metro-darkblue?style=for-the-badge&logo=metro&logoColor=white)
