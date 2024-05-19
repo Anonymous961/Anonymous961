@@ -2,15 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&width=435&lines=Hey!+Welcome+to+my+profile.;I'm+Anil.)](https://git.io/typing-svg)
 
-### 🌱 I’m currently learning **Blockchain and Smart Contracts.**
-
-### 👯 I’m open to collaborate
-
-### 🤝 I’m looking for **interesting open source projects.**
-
-### ⚡ Fun fact **I think I am funny.**
-
+ 🌱 I’m currently learning **Blockchain and Smart Contracts.** 
+ 
+ 👯 I’m open to collaborate
+ 
+ 🤝 I’m looking for **interesting open source projects.**
+ 
+  ⚡ Fun fact **I think I am funny.**
 ### My email :- ark845612@gmail.com
+
 
 ### My Profiles
 
