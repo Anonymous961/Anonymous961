@@ -2,24 +2,22 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&width=435&lines=Hey!+Welcome+to+my+profile.;I'm+Anil.)](https://git.io/typing-svg)
 
- 🌱 I’m currently learning **Blockchain and Smart Contracts.** 
- 
- 👯 I’m open to collaborate
- 
- 🤝 I’m looking for **interesting open source projects.**
- 
-  ⚡ Fun fact **I think I am funny.**
-### My email :- ark845612@gmail.com
+🌱 I’m currently learning **Blockchain and Smart Contracts.**
 
+👯 I’m open to collaborate
+
+🤝 I’m looking for **interesting open source projects.**
+
+⚡ Fun fact **I think I am funny.**
+
+### My email :- ark845612@gmail.com
 
 ### My Profiles
 
 [![Codechef](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodechef%2Fanil_rockzz11&cacheSeconds=86400)](https://www.codechef.com/users/anil_rockzz11)
 [![Codeforces](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodeforces%2FAnil_rockzz&cacheSeconds=86400)](https://codeforces.com/profile/Anil_rockzz)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/ark845612)](https://www.hackerrank.com/ark845612)
-[![LeetCode](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fleetcode%2FAnonymous961&cacheSeconds=86400)](https://leetcode.com/Anonymous961/) 
-
-
+[![LeetCode](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fleetcode%2FAnonymous961&cacheSeconds=86400)](https://leetcode.com/Anonymous961/)
 
 ### **Languages**
 
@@ -32,14 +30,14 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-
 ### **Frameworks, Platforms and Libraries**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/Reactnative-blue?style=for-the-badge&logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Recoil.js](https://img.shields.io/badge/recoil.js-blue?style=for-the-badge&logo=recoil&logoColor=white)
+![Recoil.js](https://img.shields.io/badge/recoil.js-gray?style=for-the-badge&logo=recoil&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-blue?style=for-the-badge&logo=sequelize)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
@@ -68,25 +66,27 @@
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
 ### **💾 Databases**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### **☁️ Hosting**
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-black?style=for-the-badge&logo=railway&logoColor=white)
 ![Render](https://img.shields.io/badge/render-black?style=for-the-badge&logo=render&logoColor=white)
+![CloudFare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ### **🕓 Version Control**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
 
 ### **🎛️ Operating System**
 
